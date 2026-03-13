@@ -5,3 +5,4 @@
 - ANN
 - CNN
 - RNN
+- LSTM
